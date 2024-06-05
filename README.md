@@ -11,24 +11,26 @@
  
  🌱 I’m currently learning **NodeJs, ReactJs**
 
-📫 You can contact me at :
+📫 You can contact me at :  [kimdong240502@gmail.com](mailto:kimdong240502@gmail.com)
 </div>
 
+ <hr/>
+<h2 align="center"> Socials </h2>
 <div align="center"> 
-  <a href="mailto:kimdong240502@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/nam-huynh-7b3a79176/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.facebook.com/nam.kelvil.12/" target="_blank">
-     <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://www.topcv.vn/p/huynh-nam-5687179?ta_source=ViewProfileInMenubar" target="_blank">
+    <img src="https://img.shields.io/badge/TopCV-FF5900?style=for-the-badge&logo=topcv&logoColor=white" />
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Skills ⚒️</h2>
+<h2 align="center"> Skills </h2>
 <div align="center">
     <!-- Ngôn ngữ lập trình -->
     <img src="https://skillicons.dev/icons?i=c" />
@@ -57,10 +59,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div align=center>
-  <img width="390" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KevinHuynh101&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=KevinHuynh101&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHuynh101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+    <img width="390" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KevinHuynh101&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br>
+    <img width="390" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=KevinHuynh101&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br>
+    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHuynh101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </div>
+
 
   
