@@ -58,7 +58,7 @@
 
 
 <div align="center">
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Stats ⚡</h2>
     <img width="390" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KevinHuynh101&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br>
     <img width="390" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=KevinHuynh101&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br>
     <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHuynh101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
