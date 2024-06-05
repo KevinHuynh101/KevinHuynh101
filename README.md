@@ -48,7 +48,6 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
-    <img src="https://skillicons.dev/icons?i=nextjs" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=django" />
     <img src="https://skillicons.dev/icons?i=dotnet" /><br>
