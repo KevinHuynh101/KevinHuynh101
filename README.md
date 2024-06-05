@@ -2,14 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nam+Huynh!;" />
 </h1>
 
-<h3 align="center">A Backend Developer from Viet Nam </h3>
+<h3 align="center">A Frontend Developer from Viet Nam </h3>
 
 <br/>
 <div align="center">
  
  🔭  I am a final-year student at Ho Chi Minh City University of Technology (HUTECH)
  
- 🌱 I’m currently learning **NodeJs, PHP**
+ 🌱 I’m currently learning **NodeJs, ReactJs**
 
 📫 You can contact me at :
 </div>
@@ -54,16 +54,9 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KevinHuynh101/KevinHuynh101/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KevinHuynh101&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=KevinHuynh101&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -71,11 +64,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHuynh101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
-
-
-
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/huynhnam101) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
