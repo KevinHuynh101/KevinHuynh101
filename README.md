@@ -14,10 +14,9 @@
 📫 You can contact me at :  [kimdong240502@gmail.com](mailto:kimdong240502@gmail.com)
 </div>
 
- <hr/>
-
-<div align="center"> 
-  <h3 style="text-decoration: none; font-size:  30px;">Socials</h3>
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Socials***
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="350" align="right" alt="dev" />
+<div > 
   <a href="https://www.linkedin.com/in/nam-huynh-7b3a79176/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -29,10 +28,8 @@
   </a>
 </div>
 
- <hr/>
- 
-<div align="center">
-    <h3 style="text-decoration: none; font-size:  30px;">Skills</h3>
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Skills***
+<div >
     <!-- Ngôn ngữ lập trình -->
     <img src="https://skillicons.dev/icons?i=c" />
     <img src="https://skillicons.dev/icons?i=cpp" />
