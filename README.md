@@ -32,7 +32,7 @@
  <hr/>
  
 <div align="center">
-<h2 style="text-decoration: none;"> Skills </h2>
+    <h2 style="text-decoration: none; margin-bottom: 10px;">Skills</h2>
     <!-- Ngôn ngữ lập trình -->
     <img src="https://skillicons.dev/icons?i=c" />
     <img src="https://skillicons.dev/icons?i=cpp" />
@@ -53,6 +53,7 @@
     <img src="https://skillicons.dev/icons?i=django" />
     <img src="https://skillicons.dev/icons?i=dotnet" /><br>
 </div>
+
 
 <br/>
 
