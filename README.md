@@ -15,8 +15,9 @@
 </div>
 
  <hr/>
-<h2 align="center"> Socials </h2>
+
 <div align="center"> 
+  <h3 style="text-decoration: none; font-size:  1.5em;">Socials</h3>
   <a href="https://www.linkedin.com/in/nam-huynh-7b3a79176/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -30,8 +31,8 @@
 
  <hr/>
  
-<h2 align="center"> Skills </h2>
 <div align="center">
+    <h3 style="text-decoration: none; font-size:  1.5em;">Skills</h3>
     <!-- Ngôn ngữ lập trình -->
     <img src="https://skillicons.dev/icons?i=c" />
     <img src="https://skillicons.dev/icons?i=cpp" />
@@ -53,17 +54,18 @@
     <img src="https://skillicons.dev/icons?i=dotnet" /><br>
 </div>
 
+
 <br/>
-<hr/>
 
-
-<h2 align="center">⚡ Stats ⚡</h2>
+ <hr/>
 
 <div align="center">
+    <h3 style="text-decoration: none; font-size:  1.5em;">⚡ Stats ⚡</h3>
     <img width="390" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KevinHuynh101&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br>
     <img width="390" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=KevinHuynh101&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br>
-    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHuynh101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHuynh101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </div>
+
 
 
   
