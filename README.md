@@ -28,7 +28,7 @@
   </a>
 </div>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Skills***
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Skills***
 <div >
     <!-- Ngôn ngữ lập trình -->
     <img src="https://skillicons.dev/icons?i=c" />
