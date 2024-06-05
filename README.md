@@ -31,10 +31,26 @@
  <hr/>
  
 <h2 align="center">⚒️ Skills ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,java,javascript,react,bootstrap," />
-    <img src="https://skillicons.dev/icons?i=,html,css,gittypescript,mongodb,nextjs,mysql,django" /><br>
+    <!-- Ngôn ngữ lập trình -->
+    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=javascript" />
+    <img src="https://skillicons.dev/icons?i=typescript" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" /><br>
+    <!-- Công cụ và framework -->
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=django" />
+    <img src="https://skillicons.dev/icons?i=dotnet" /><br>
 </div>
 
 <br/>
